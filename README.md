@@ -179,7 +179,7 @@
 
   * 单条、多条删除
 
-    ![Snipaste_2019-07-17_09-34-56](screenshots\Snipaste_2019-07-17_09-34-56.jpg)
+    ![Snipaste_2019-07-17_09-34-56](screenshots/Snipaste_2019-07-17_09-34-56.jpg)
 
 * 教师信息修改：类似学生信息修改，图略
 
@@ -197,7 +197,11 @@
 
 ![Snipaste_2019-07-17_09-37-17](screenshots/Snipaste_2019-07-17_09-37-17.jpg)
 
+![Snipaste_2019-07-26_17-10-43](screenshots/Snipaste_2019-07-26_17-10-43.jpg)
 
+- 师资力量可视化
+
+  ![Snipaste_2019-07-26_17-12-36](screenshots/Snipaste_2019-07-26_17-12-36.jpg)
 
 ## 安全性
 ### 1 : 未登录用户进入系统
