@@ -27,7 +27,7 @@
         <project.build.spring.test.version>4.3.24.RELEASE</project.build.spring.test.version>
         <project.build.spring.aspect.version>4.3.24.RELEASE</project.build.spring.aspect.version>
         <project.build.spring.context.support.version>4.3.24.RELEASE</project.build.spring.context.support.version>
-        <project.build.spring.web.version>4.3.24.RELEASE</project.build.spring.web.version>
+        <project.build.spring.web.version>6.0.0</project.build.spring.web.version>
         <project.build.spring.jdbc.version>4.3.24.RELEASE</project.build.spring.jdbc.version>
         <project.build.spring.webmvc.version>4.3.24.RELEASE</project.build.spring.webmvc.version>
         <!-- MyBatis -->
