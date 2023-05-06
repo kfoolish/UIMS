@@ -23,7 +23,7 @@
         <project.build.spring.tx.version>4.3.24.RELEASE</project.build.spring.tx.version>
         <project.build.spring.aop.version>4.3.24.RELEASE</project.build.spring.aop.version>
         <project.build.spring.core.version>4.3.24.RELEASE</project.build.spring.core.version>
-        <project.build.spring.bean.versoin>4.3.24.RELEASE</project.build.spring.bean.versoin>
+        <project.build.spring.bean.versoin>5.2.20.RELEASE</project.build.spring.bean.versoin>
         <project.build.spring.test.version>4.3.24.RELEASE</project.build.spring.test.version>
         <project.build.spring.aspect.version>4.3.24.RELEASE</project.build.spring.aspect.version>
         <project.build.spring.context.support.version>4.3.24.RELEASE</project.build.spring.context.support.version>
